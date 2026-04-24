@@ -1,0 +1,4 @@
+model: o3-mini
+tools:
+  - type: function
+    name: bash
