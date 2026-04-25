@@ -1,0 +1,4 @@
+model: o3-mini
+temperature: 1
+top_p: 1
+max_tokens: 8096
